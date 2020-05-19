@@ -28,7 +28,7 @@ Null is een speciaal datatype en kan alleen de waarde null bevatten, een variabe
 >`$x;` of `$x = null;`
 
 ## Leerdoelen
->1. [ ] Ik weet wat de verschillende datatype zijn
+>1. [ ] Ik weet wat de verschillende datatype zijn 
 >2. [ ] Ik maak een boolean variabele aan in PHP
 >3. [ ] Ik maak een variabele leeg in PHP
 >4. [ ] Ik volg de juiste regels voor het maken van een variabele 

@@ -7,9 +7,8 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
+    $voornaam= "tom";
+    echo gettype($voornaam);
     ?>
 </body>
 </html>

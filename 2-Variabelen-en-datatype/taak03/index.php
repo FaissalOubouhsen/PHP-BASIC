@@ -7,9 +7,10 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
+    $leeftijd=16;
+    $melk=1.20;
+    echo "$leeftijd <br>";
+    echo "$melk";
     ?>
 </body>
 </html>

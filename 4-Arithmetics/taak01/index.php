@@ -7,8 +7,12 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
+    $getal1 = 30;
+    $getal2 = 30;
+    echo $getal1 + $getal2;
+    echo $getal1 - $getal2;
+    echo $getal1 * $getal2;
+    echo $getal1 / $getal2;
 
     ?>
 </body>

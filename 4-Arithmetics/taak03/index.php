@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
+     $getal = 10;
+     echo ++$getal;
+     echo --$getal;
     ?>
 </body>
 </html>

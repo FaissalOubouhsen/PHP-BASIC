@@ -7,8 +7,10 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
+    $item= "<li>Gamen</li>";
+    $item .= "<li>Eten</li>";
+    $item .= "<li>Slapen</li>";
+    echo "$item";
 
     ?>
 </body>

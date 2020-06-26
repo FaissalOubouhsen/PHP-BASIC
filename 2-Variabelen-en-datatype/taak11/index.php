@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
+    $test= "test";
+    var_dump($test);
 
-    ?>
+ ?>
 </body>
 </html>

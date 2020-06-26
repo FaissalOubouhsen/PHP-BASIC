@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
+    $voornaam = "Faissal";
+    $leeftijd = 16;
+    echo "Mijn naam is " . $voornaam . " en ik bent " . $leeftijd . " jaar oud.";
     ?>
 </body>
 </html>

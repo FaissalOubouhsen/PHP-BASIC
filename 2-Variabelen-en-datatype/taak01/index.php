@@ -7,9 +7,7 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
-    ?>
+     echo "0";
+     ?>
 </body>
 </html>

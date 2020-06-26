@@ -7,8 +7,11 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
+    $voornaam1= "Arman";
+    $voornaam2= "Bilal";
+    $voornaam3= "Tarik";
+
+    echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>"
 
     ?>
 </body>

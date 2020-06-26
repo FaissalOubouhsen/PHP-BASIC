@@ -7,9 +7,8 @@
 </head>
 <body>
     <?php
-    $test= null;
-    echo "$test";
-
-    ?>
+     $txt = "Faissal";
+     echo "$txt";
+     ?>
 </body>
 </html>
